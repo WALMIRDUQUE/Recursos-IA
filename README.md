@@ -5,7 +5,7 @@ Neste repositório estão armazenados arquivos e recursos de apoio para estudos 
 ## PDFs para PLN - Parte 1
 
 Arquivo "Aprendizado de Maquina": define e explica brevemente este segmento da IA e, em particular, aprendizado supervisionado.
-[📄 Clique aqui para baixar o PDF](https://raw.githubusercontent.com/WALMIRDUQUE/Recursos-IA/main/arquivos/candidatos.pdf)
+[📄 Clique aqui para baixar o PDF](https://raw.githubusercontent.com/WALMIRDUQUE/Recursos-IA/main/arquivos/aprendizado%20de%20maquina.pdf)
 
 Arquivo "Busca Informada": discorre sobre a técnica de busca informada e apresenta o algoritmo A*.
 [📄 Clique aqui para baixar o PDF](https://raw.githubusercontent.com/WALMIRDUQUE/Recursos-IA/main/arquivos/candidatos.pdf)

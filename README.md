@@ -1,7 +1,20 @@
 # Recursos-IA
 Neste repositório estão armazenados arquivos e recursos de apoio para estudos de IA e Machine Learning
 
-## PDFs para PLN
+
+## PDFs para PLN - Parte 1
+
+Arquivo "Aprendizado de Maquina": define e explica brevemente este segmento da IA e, em particular, aprendizado supervisionado.
+[📄 Clique aqui para baixar o PDF](https://raw.githubusercontent.com/WALMIRDUQUE/Recursos-IA/main/arquivos/candidatos.pdf)
+
+Arquivo "Busca Informada": discorre sobre a técnica de busca informada e apresenta o algoritmo A*.
+[📄 Clique aqui para baixar o PDF](https://raw.githubusercontent.com/WALMIRDUQUE/Recursos-IA/main/arquivos/candidatos.pdf)
+
+Arquivo "Inteligencia Artificial": introdução à IA e brevíssimo histórico, sob a perspectiva de clássicos autores.
+[📄 Clique aqui para baixar o PDF](https://raw.githubusercontent.com/WALMIRDUQUE/Recursos-IA/main/arquivos/candidatos.pdf)
+
+
+## PDFs para PLN - Parte 2
 
 Arquivo "Candidatos": Dados de perfis profissionais de candidatos a vagas de emprego na área de Engenharia de Software, Desenvolvimento Web, Ciência de Dados, dentre outros.
 [📄 Clique aqui para baixar o PDF](https://raw.githubusercontent.com/WALMIRDUQUE/Recursos-IA/main/arquivos/candidatos.pdf)
